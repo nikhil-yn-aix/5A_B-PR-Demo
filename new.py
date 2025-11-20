@@ -1,0 +1,1 @@
+print("Vibe coding is harder than real coding")
